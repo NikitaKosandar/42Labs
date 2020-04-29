@@ -1,4 +1,4 @@
-note : convert .txt files to .js before running the project (converted to .txt because gmail blocks .js files)
+
 1) In the project directory, you can run:
 'npm install'
 `npm start`
