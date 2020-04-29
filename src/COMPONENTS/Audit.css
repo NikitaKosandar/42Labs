@@ -1,0 +1,63 @@
+body{
+    font-size: 13px;
+    font-family: sans-serif;
+}
+th{
+    text-align: left;
+    vertical-align: middle;
+    height: 49px;
+    background-color: rgb(218, 222, 232);
+
+}
+.row{
+    background-color:rgb(230, 232, 236);
+    margin-top: -40px;
+}
+.pl-5, .px-5{
+    padding-left: 0px!important;
+}
+.datepickerCustom1 {
+    width: 15%;
+}
+.datepickerCustom2 {
+    width: 15%;
+}
+.calendarContainer{
+    float: right;
+}
+.react-bs-table-tool-bar{
+    margin-bottom: 0px!important;
+}
+#searchBar{
+    height: 40px;
+    margin: 5px 0px 5px auto;
+}
+.react-bs-table table td{
+    white-space: break-spaces!important;
+}
+.d-flex{
+    display:flex
+}
+.react-bs-table-container{
+    margin-top: -32px;
+}
+.justify-center{
+    justify-content: center;
+}
+.m-left{
+    margin-left: 15%;
+}
+input{
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 40px;
+}
+button{
+    border-radius: 26px;
+    padding: 4px 14px 4px 14px;
+    background-color: #337ab7;
+    color:white
+}
+label {
+    font-size: 15px;
+}
